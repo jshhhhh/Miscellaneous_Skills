@@ -3,3 +3,4 @@
 * FollowCamera : 3인칭 카메라
 * CircularSector : 부채꼴 내의 적 탐지
 * ObjectExtensions : 클래스 복사 스크립트
+* Network 폴더 : TCP 예제(byte array를 구조체로 바꿔즘)
